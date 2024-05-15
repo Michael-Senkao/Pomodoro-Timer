@@ -38,6 +38,6 @@ python pomodoro.py
 ## Credits
 - <strong>Author:</strong> [Michael Senkao](https://github.com/Michael-Senkao)
 - <strong>Sound:</strong> Clock ticking sound by [soundjay.com](https://www.soundjay.com)
-- 
+
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
