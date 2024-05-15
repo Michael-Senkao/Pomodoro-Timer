@@ -18,7 +18,7 @@ git clone https://github.com/Michael-Senkao/Pomodoro-Timer.git
 ```
 2. Navigate to the directory:
 ```bash
-   cd pomodoro-timer
+   cd Pomodoro-Timer
 ```
 3. Run the Python script:
 ```bash
