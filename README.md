@@ -14,7 +14,7 @@ This is a simple Pomodoro timer application built using Python's Tkinter library
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/Michael-Senkao/Pomodoro-Timer.git
 ```
 2. Navigate to the directory:
 ```bash
